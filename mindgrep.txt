@@ -1,8 +1,0 @@
-ADD_CHILD Chitra Aria Female
-ADD_CHILD Satya Chinnu Male
-GET_RELATIONSHIP Lavnya Maternal-Aunt
-GET_RELATIONSHIP Aria Siblings
-GET_RELATIONSHIP Vyas Siblings
-GET_RELATIONSHIP Tritha Brother-In-Law
-GET_RELATIONSHIP Laki Maternal-Aunt
-GET_RELATIONSHIP Vasa Siblings
